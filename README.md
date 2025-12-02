@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Shobhit Srivastava
+**A passionate MERN Stack Developer | DevOps Enthusiast**
 
+Email Me 👉 ✉️ **shobhitsri1405@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Agentic Ai
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shobhitsri1405@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-srivastava-542524289) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShobhitS_14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhitsri1405@gmail.com) 
 
